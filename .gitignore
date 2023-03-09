@@ -1,0 +1,6 @@
+/backend/.env
+/backend/node_modules
+/flaskBackend/coco.names
+/flaskBackend/yolov3.cfg
+/flaskBackend/yolov3.weights
+/fronend/dashboard/node_modules
